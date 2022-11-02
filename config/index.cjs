@@ -7,16 +7,15 @@
  */
 const USER_CONFIG = {
   
-USE_PASSAGE: 'server-chan',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxc7cf9262e8034ab2',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '3814a67949be51c5c4d6a040fd4b2d74',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '天津',
+  CITY: '天津',
 
   USERS: [
     {
@@ -53,7 +52,7 @@ USE_PASSAGE: 'server-chan',
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '0002',
 
   CALLBACK_USERS: [
     {
